@@ -1,0 +1,1 @@
+Simple fully connected neural net to identify correlations between survival and age, sex and travelling party size in relation to the Titanic incident.
